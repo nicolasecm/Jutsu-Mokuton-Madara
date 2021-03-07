@@ -1,0 +1,8 @@
+<meta>
+	<info author="Mcnciolas208" name="nee" version="1.0" type="script" />
+	<script src="server.lua" type="server" />
+	<script src="client.lua" type="client"/>
+	<file src="Plantas.mp3" />
+	<file src="Sellos.mp3" />
+	<file src="Mokuton2.mp3" />
+</meta>
